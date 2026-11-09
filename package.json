@@ -1,0 +1,16 @@
+{
+  "name": "milktea-fullstack-app",
+  "version": "1.0.0",
+  "description": "Aplikasi Toko Minuman Milk Tea Fullstack JavaScript (Express + React Native)",
+  "scripts": {
+    "dev:backend": "cd backend && npm run dev",
+    "start:backend": "cd backend && npm start",
+    "dev:frontend": "cd frontend && npm run web",
+    "start:frontend": "cd frontend && npm start",
+    "install:all": "cd backend && npm install && cd ../frontend && npm install"
+  },
+  "keywords": ["express", "react-native", "react-native-web", "expo", "milk-tea", "fullstack"],
+  "author": "",
+  "license": "ISC"
+}
+

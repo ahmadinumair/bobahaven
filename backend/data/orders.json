@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ORD-1001",
+    "customerName": "Siti Nurhaliza",
+    "tableOrTakeaway": "Dine In - Meja 04",
+    "items": [
+      {
+        "id": "mt-1",
+        "name": "Classic Brown Sugar Boba Milk",
+        "price": 28000,
+        "quantity": 1,
+        "sugarLevel": "Less Sugar (70%)",
+        "iceLevel": "Normal Ice",
+        "toppings": ["Boba Pearl (+Rp 4.000)", "Cheese Foam (+Rp 6.000)"],
+        "subtotal": 38000
+      }
+    ],
+    "totalAmount": 38000,
+    "status": "Selesai",
+    "createdAt": "2026-11-09T07:15:00.000Z"
+  }
+]
+

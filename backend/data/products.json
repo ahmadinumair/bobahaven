@@ -1,0 +1,83 @@
+[
+  {
+    "id": "mt-1",
+    "name": "Classic Brown Sugar Boba Milk",
+    "category": "Brown Sugar",
+    "price": 28000,
+    "description": "Susu segar creamy dipadukan dengan gula aren karamel otentik dan boba tapioka kenyal hangat.",
+    "image": "https://images.unsplash.com/photo-1558857563-b37cf2cb7d5a?w=500&auto=format&fit=crop&q=80",
+    "rating": 4.9,
+    "isBestSeller": true
+  },
+  {
+    "id": "mt-2",
+    "name": "Roasted Oolong Milk Tea",
+    "category": "Milk Tea",
+    "price": 25000,
+    "description": "Seduhan teh oolong panggang dengan aroma harum khas dipadukan susu lembut kaya rasa.",
+    "image": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?w=500&auto=format&fit=crop&q=80",
+    "rating": 4.8,
+    "isBestSeller": true
+  },
+  {
+    "id": "mt-3",
+    "name": "Kyoto Matcha Cream Cheese",
+    "category": "Cheese Tea",
+    "price": 32000,
+    "description": "Matcha premium asli dari Uji Kyoto dengan topping foam krim keju gurih yang melimpah.",
+    "image": "https://images.unsplash.com/photo-1536256263959-770b48d82b0a?w=500&auto=format&fit=crop&q=80",
+    "rating": 4.9,
+    "isBestSeller": true
+  },
+  {
+    "id": "mt-4",
+    "name": "Taro Velvet Dream Milk Tea",
+    "category": "Milk Tea",
+    "price": 26000,
+    "description": "Perpaduan rasa talas manis alami warna ungu cantik dengan sensasi lembut menyegarkan.",
+    "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=500&auto=format&fit=crop&q=80",
+    "rating": 4.7,
+    "isBestSeller": false
+  },
+  {
+    "id": "mt-5",
+    "name": "Royal Thai Milk Tea",
+    "category": "Milk Tea",
+    "price": 24000,
+    "description": "Racikan teh tradisional Thailand berwarna oranye khas dengan susu kental manis gurih legit.",
+    "image": "https://images.unsplash.com/photo-1517256064527-09c73fc73e38?w=500&auto=format&fit=crop&q=80",
+    "rating": 4.8,
+    "isBestSeller": false
+  },
+  {
+    "id": "mt-6",
+    "name": "Mango Passion Fruit Jasmine Tea",
+    "category": "Fruit Tea",
+    "price": 27000,
+    "description": "Teh melati wangi dengan sari buah mangga manis dan markisa segar penghilang dahaga.",
+    "image": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?w=500&auto=format&fit=crop&q=80",
+    "rating": 4.7,
+    "isBestSeller": false
+  },
+  {
+    "id": "mt-7",
+    "name": "Strawberry Cheese Cloud",
+    "category": "Cheese Tea",
+    "price": 33000,
+    "description": "Puree stroberi segar asam-manis dibalut teh melati dingin dan lapisan tebal krim keju.",
+    "image": "https://images.unsplash.com/photo-1553530666-ba11a7da3888?w=500&auto=format&fit=crop&q=80",
+    "rating": 4.9,
+    "isBestSeller": true
+  },
+  {
+    "id": "mt-8",
+    "name": "Brown Sugar Crème Brûlée Milk",
+    "category": "Brown Sugar",
+    "price": 34000,
+    "description": "Minuman boba brown sugar mewah dengan topping custard brûlée yang ditorch hingga renyah.",
+    "image": "https://images.unsplash.com/photo-1556881286-fc6915169721?w=500&auto=format&fit=crop&q=80",
+    "rating": 5.0,
+    "isBestSeller": true
+  }
+]
+
